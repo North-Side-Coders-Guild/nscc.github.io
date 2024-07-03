@@ -1,0 +1,11 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'North Side Coders Guild'
+theme = 'ananke'
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/North-Side-Coders-Guild"
+
+[markup.goldmark.renderer]
+ unsafe = true
